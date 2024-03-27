@@ -33,9 +33,9 @@ const About = () => {
           your astrologer, I follow that ancient tradition. Using the wisdom of
           Jyotish (Vedic astrology), I can interpret the language of the planets
           at your birth. This knowledge unveils your strengths, challenges, and
-          hidden aspects. Let's unlock your personal cosmic map together. By
-          understanding the stars' influence, you can navigate life's journey
-          with greater awareness and purpose.
+          hidden aspects. Lets unlock your personal cosmic map together. By
+          understanding the stars influence, you can navigate lifes journey with
+          greater awareness and purpose.
         </h1>
         {/* <Button
           variant="outline"
