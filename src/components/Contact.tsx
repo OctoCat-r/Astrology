@@ -56,7 +56,7 @@ export function DialogDemo({ value = 0 }) {
             </Label>
             {/* <Input id="username" value="@peduarte" className="col-span-3" /> */}
             <Link
-              href="https://wa.me/9151233770"
+              href="https://wa.me/9415257805"
               className="col-span-3  underline hover:text-orange-300"
             >
               On whatsApp
