@@ -48,7 +48,7 @@ export function DialogDemo({ value = 0 }) {
               Phone No.
             </Label>
             {/* <Input id="name" value="Pedro Duarte" className="col-span-3" /> */}
-            <Label className="col-span-3">+91-9415257805</Label>
+            <Label className="col-span-3">+91-9151233770</Label>
           </div>
           <div className="grid grid-cols-4 items-center gap-4">
             <Label htmlFor="username" className="text-right font-bold">
